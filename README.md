@@ -6,8 +6,6 @@ Este trabajo lo hice para la materia **Prácticas Profesionalizantes 1**, con el
 
 Desde el inicio, quise que la página sea clara, ordenada y que transmita bien el mensaje. Por eso estructuré el contenido de forma que cualquier persona pueda leerlo y entenderlo fácilmente, sin necesidad de conocimientos técnicos.
 
- ¿Qué usé?
-
 Usé solamente **HTML y CSS**. Acá explico paso a paso para qué se usó cada cosa:
 
  HTML – Estructura
@@ -37,8 +35,6 @@ También usé `class` para poder aplicar estilos desde el CSS y organizar mejor 
 - **Efectos visuales:** Usé `box-shadow` y `border-radius` en las tarjetas (`.card`) para dar un estilo moderno con esquinas redondeadas y sombras suaves.  
 - **Listas claras:** Usé `line-height` en las listas para que no se vea todo amontonado.
 
- Lo que aprendí
-
  A lo largo del proyecto, aprendí varias cosas (y me ayudé también usando IA para entenderlas mejor):
 
 - Cómo organizar una página en secciones claras y jerárquicas con HTML.  
@@ -49,8 +45,6 @@ También usé `class` para poder aplicar estilos desde el CSS y organizar mejor 
 - Que las unidades como `em` o `rem` son mejores para adaptar a distintas pantallas (aunque acá usé principalmente `px`, ya lo voy a ir practicando).  
 - Que organizar el contenido en tarjetas (`.card`) ayuda a que se entienda mejor y no sea solo un bloque largo de texto.  
 - Más allá del código, también aprendí sobre ergonomía: cómo cuidar la postura, hacer pausas activas y prevenir molestias físicas por estar tantas horas frente a una pantalla.
-
- Resultado final
 
 La página tiene un diseño limpio, buena legibilidad, y está pensada para informar de manera clara. No usé imágenes ni menú interactivo esta vez, pero cumple bien su función informativa.
 Más allá de lo técnico, el mensaje es simple pero importante: **cuidar el cuerpo también es parte del trabajo**. Y este TP me ayudó a aprender muchísimo, tanto de ergonomía como de desarrollo web.
